@@ -5,7 +5,7 @@ I am a newbie data scientist with a passion for creating data science projects u
 
 * 🌍  I'm based in Skopje, North Macedonia
 * ✉️  You can contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com)
-* 🧠  I'm learning Cloud Technologies, Transformers
+* 🧠  I'm learning Cloud Technologies
 * 🤝  I'm open to collaborating on open source and fun projects
 
 <a href="https://www.twitter.com/ninoristeski" target="_blank" rel="noreferrer"><img
