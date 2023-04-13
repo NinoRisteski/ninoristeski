@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nino Risteski
 =====================================================================================================================================
 
-I am a newbie data scientist with a passion for creating data science projects using machine learning and deep learning techniques. Apart from creating data science projects, I also enjoy sharing my experience of mastering data science and writing skills. This has led me to start my personal blog, where I regularly post about my projects, learnings, and experiences. Feel free to explore my repositories and check out my blog to learn more about my work. I am always open to feedback, collaboration, and learning from others in the data science community.
+I am a newbie data scientist with a passion for creating data science projects using machine learning and deep learning techniques. Apart from creating data science projects, I also enjoy sharing my experience of mastering data science and writing skills. This has led me to start my [personal blog](https://www.ninoristeski.com/), where I regularly post about my projects, learnings, and experiences. Feel free to explore my repositories and check out my blog to learn more about my work. I am always open to feedback, collaboration, and learning from others in the data science community.
 
 * 🌍  I'm based in Skopje, North Macedonia
 * ✉️  You can contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com)
