@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nino Risteski
-=====================================================================================================================================
+
 * 🌍  I'm based in Skopje, North Macedonia
 * ✉️  You can contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com), or visit my [personal blog](https://www.ninoristeski.com/)
 * 🧠  I'm learning Cloud Technologies & End to End implementations 
