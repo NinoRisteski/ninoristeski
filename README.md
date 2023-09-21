@@ -1,7 +1,7 @@
 
-* 🌍  I'm based in Skopje, North Macedonia
-* ✉️  You can contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com), or visit my [personal blog](https://www.ninoristeski.com/)
-* 🧠  I'm learning Cloud Technologies & End to End implementations 
+* 🌍  Based in Skopje, North Macedonia
+* ✉️  Contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com), or visit my [personal blog](https://www.ninoristeski.com/)
+* 🧠  Learning Cloud Technologies & End to End implementations 
 * 🤝  Contributing to @huggingface, @openai, @tensorflow, @llama, @langchain
 
 
