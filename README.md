@@ -1,5 +1,3 @@
-
-* 🌍  Based in Skopje, North Macedonia
 * ✉️  Contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com), or visit my [personal blog](https://www.ninoristeski.com/)
 * 📰  Subscribe to my Newsletter - [AI Paper Express](https://aipaperexpress.substack.com/)
 * 🤝  Contributing to @huggingface, @openai, @tensorflow, @llama, @langchain
