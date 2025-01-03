@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Visit my [personal blog](https://ninoristeski.github.io/) for my bio.
+### Visit my [blog](https://ninoristeski.github.io/) for my bio.
 
 #### Latest completed project: [Huberman Answers](https://github.com/NinoRisteski/HubermanAnswers)
 
