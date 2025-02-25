@@ -2,7 +2,7 @@
 
 ### Visit my [blog](https://ninoristeski.github.io/) for my bio.
 
-#### Latest completed project: [Huberman Answers](https://github.com/NinoRisteski/HubermanAnswers)
+### Building with AI agents, contributing to open source (Unsloth, AgentLaboratory, Browser Use)
 
-##### I am searching for a role as ML Engineer. Please reach out!
+#### I am searching for a role as ML Engineer. Please reach out!
 
