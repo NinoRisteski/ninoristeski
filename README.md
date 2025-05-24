@@ -2,7 +2,7 @@
 
 ### I have a [blog](https://ninoristeski.github.io/) for bio.
 
-## Featured Projects
+## Latest Projects
 
 - **[tinypilot](https://github.com/[your-username]/tinypilot)**  
   An AI agent that helps you learn the `tinygrad` framework and keeps you updated on the latest bounties.
