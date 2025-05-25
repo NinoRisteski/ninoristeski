@@ -13,7 +13,7 @@
 - **[transformer-from-scratch](https://github.com/ninoristeski/transformer-from-scratch)**: A clean, from-scratch implementation of the Transformer architecture from the "Attention is All You Need" paper, built with PyTorch. 
 
 ## Currently:
-- Learning the nuts and bolts of `tinygrad`.
+- Learning the nuts and bolts (GPU/Compiler part) of `tinygrad`.
 - Building end-to-end ML projects that solve personal and practical challenges.
 - Contributing to open-source (Unsloth, Browser-Use...).
 
