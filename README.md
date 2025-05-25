@@ -11,8 +11,8 @@
 - **[ShallowFlow](https://github.com/ninoristeski/ShallowFlow)**: A lightweight, distributed LLM training framework focused on cost-effective training on local GPU and AWS.(In progress)
 
 - **[transformer-from-scratch](https://github.com/ninoristeski/transformer-from-scratch)**: A clean, from-scratch implementation of the Transformer architecture from the "Attention is All You Need" paper, built with PyTorch.
-- 
-**GPTmashina**: GPT2 built from scratch for learning purposes. Optimized with several training speedup approaches: Flash Attention, mixed precision (bfloat16), model compilation with torch.compile, and cloud GPU deployment on Vast.ai and V100 instances.
+
+- **GPTmashina**: GPT2 built from scratch for learning purposes. Optimized with several training speedup approaches: Flash Attention, mixed precision (bfloat16), model compilation with torch.compile, and cloud GPU deployment on Vast.ai and V100 instances.
  
 
 ## Currently:
