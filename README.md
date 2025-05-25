@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### I have a [blog](https://ninoristeski.github.io/) for bio.
+##### I am searching for a role as an ML Engineer. Please reach out!
 
 ## Latest Projects
 
@@ -15,16 +16,10 @@
 - **[transformer-from-scratch](https://github.com/[your-username]/transformer-from-scratch)**  
   A clean, from-scratch implementation of the Transformer architecture from the "Attention is All You Need" paper, built with PyTorch. 
 
-## Skills & Tools
-- **Languages & Frameworks**: Python, PyTorch, NumPy, Pandas
-- **ML/AI**: Deep Learning, Transformers, NLP, Distributed Training
-- **Platforms**: AWS, Docker, Git
-- **Interests**: MLOps, GPU optimization, open-source AI tools
-
-## What I'm Working On
+## Currently:
 - Exploring minimalist ML frameworks like `tinygrad` for efficient model training.
 - Building end-to-end ML projects that solve personal and practical challenges.
 - Contributing to open-source (Unsloth, Browser-Use...) to make machine learning more accessible.
 
-#### I am searching for a role as an ML Engineer. Please reach out!
+
 
