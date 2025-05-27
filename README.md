@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Personal [blog](https://ninoristeski.github.io/).📓
-##### I am searching for a role as an ML Engineer. Please reach out!
+##### Seeking an ML Engineer Role — Contact me at [ninoristeski@gmail.com](mailto:ninoristeski@gmail.com)!
 
 ## Latest Projects
 
