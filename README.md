@@ -18,7 +18,7 @@
 ## Currently:
 - Learning and contributing to `tinygrad`.
 - Building end-to-end ML projects that solve personal and practical challenges.
-- Contributing to open-source (Unsloth, Browser-Use...).
+- Contributing to open-source (Tinygrad, Unsloth, Browser-Use...).
 
 
 
