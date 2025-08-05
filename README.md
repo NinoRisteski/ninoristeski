@@ -11,7 +11,7 @@
 
 - **[transformer-from-scratch](https://github.com/ninoristeski/transformer-from-scratch)**: From-scratch implementation of the Transformer architecture from the "Attention is All You Need" paper, built with PyTorch.
 
-- **🦾GPTmashina**: GPT2 built from scratch for learning purposes. Optimized with training speedups: Flash Attention, mixed precision (bfloat16), model compilation with torch.compile, and cloud GPU deployment on V100.
+- **GPTmashina**: GPT2 built from scratch for learning purposes. Optimized with training speedups: Flash Attention, mixed precision (bfloat16), model compilation with torch.compile, and cloud GPU deployment on V100.
  
 
 ## Currently:
