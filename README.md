@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My AI related [blog](https://ninoristeski.github.io/).📓
+## My AI [blog](https://ninoristeski.github.io/).📓
 
 ## Latest Projects
 
