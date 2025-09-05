@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My AI [blog](https://ninoristeski.github.io/).
+## My [blog](https://ninoristeski.github.io/).
  
 ## Currently:
 - Founding engineer @ AIRecruitPro.
