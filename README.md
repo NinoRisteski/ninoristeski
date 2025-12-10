@@ -5,7 +5,6 @@
 ## Currently:
 - Founding engineer @ AIRecruitPro.
 - Contributing to [tinygrad](https://github.com/tinygrad/tinygrad).
-- Building end-to-end fun projects. 
 
 
 
